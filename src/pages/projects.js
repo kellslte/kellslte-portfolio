@@ -2,7 +2,7 @@ import { AnimatedText } from "@/components/AnimatedText";
 import Layout from "@/components/Layout";
 import Head from "next/head";
 import React from "react";
-import { projects, featuredProjects } from "./utils/data";
+import { projects, featuredProjects } from "@/utils/data";
 import TransitionEffect from "@/components/TransitionEffect";
 import FeaturedProject from "@/components/FeaturedProject";
 import Project from "@/components/Project";

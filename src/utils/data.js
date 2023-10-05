@@ -1,5 +1,5 @@
 // import all the images here
-import cryptoScreener from '../../../public/images/projects/crypto-screener-cover-image.jpg';
+import cryptoScreener from '../../public/images/projects/crypto-screener-cover-image.jpg';
 
 export const workHistory = [
   {
@@ -61,9 +61,7 @@ export const educationHistory = [
   }
 ];
 
-export const projects = [
-
-];
+export const projects = [];
 
 export const featuredProjects = [
   {

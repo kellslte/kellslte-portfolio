@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import { workHistory } from "@/pages/utils/data";
+import { workHistory } from "@/utils/data";
 import { motion, useScroll } from "framer-motion";
 import LiIcon from "./LiIcon";
 
